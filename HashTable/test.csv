@@ -1,0 +1,36 @@
+File: Large Data Set.txt
+Collision type: Linear Probing
+
+
+Load Factor,Collisions,Time
+0.1,2398.0,9.3999812000376E-5
+0.5,10593.0,0.0
+0.8,15583.0,2.39996160061439E-4
+0.9,16985.0,0.0
+1.0,18396.0,0.0
+
+--------------------------
+File: Successful Search.txt
+Collision type: Linear Probing
+
+
+Load Factor,Collisions,Time
+0.1,62.0,0.0
+0.5,230.0,0.0
+0.8,303.0,0.0
+0.9,344.0,0.0
+1.0,393.0,0.0
+
+--------------------------
+File: Unsuccessful Search.txt
+Collision type: Linear Probing
+
+
+Load Factor,Collisions,Time
+0.1,44.0,0.0
+0.5,209.0,0.0
+0.8,301.0,0.0
+0.9,350.0,0.0
+1.0,365.0,0.0
+
+--------------------------

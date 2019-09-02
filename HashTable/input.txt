@@ -1,0 +1,11 @@
+<9, nine>
+<19, nineteen>
+<19, twentynine>
+<39, thirtynine>
+<49, fortynine>
+<59, fiftynine>
+<69, sixtynine>
+<79, seventynine>
+<89, eightynine>
+<99, nintynine>
+<109, onehundrednine>

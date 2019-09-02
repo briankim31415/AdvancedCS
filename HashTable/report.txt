@@ -1,0 +1,151 @@
+Collision type: Linear Probing
+Load Factor: 0.1
+Average insertion time:.............................3.7399992520001494E-5
+Number of table insertion collisions:...............0.0
+Number of collisions vs. number of insertions:......0.0%
+Average time for successful:........................0.0
+Average probes for successful:......................0.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.5
+Average insertion time:.............................1.07999892000108E-4
+Number of table insertion collisions:...............0.0
+Number of collisions vs. number of insertions:......0.0%
+Average time for successful:........................0.0
+Average probes for successful:......................0.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.8
+Average insertion time:.............................1.5039975936038502E-4
+Number of table insertion collisions:...............0.0
+Number of collisions vs. number of insertions:......0.0%
+Average time for successful:........................0.0
+Average probes for successful:......................0.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.9
+Average insertion time:.............................1.9619984304012557E-4
+Number of table insertion collisions:...............555556.0
+Number of collisions vs. number of insertions:......0.0%
+Average time for successful:........................0.0
+Average probes for successful:......................0.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 1.0
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......1.111112%
+Average time for successful:........................0.0
+Average probes for successful:......................0.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.1
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................566.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.5
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................2211.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.8
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3144.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.9
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3423.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 1.0
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3686.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................0.0
+
+--------------------------
+Load Factor: 0.1
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3686.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................456.0
+
+--------------------------
+Load Factor: 0.5
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3686.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................2060.0
+
+--------------------------
+Load Factor: 0.8
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3686.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................3086.0
+
+--------------------------
+Load Factor: 0.9
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3686.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................3391.0
+
+--------------------------
+Load Factor: 1.0
+Average insertion time:.............................1.25999748000504E-4
+Number of table insertion collisions:...............500001.0
+Number of collisions vs. number of insertions:......50.0001%
+Average time for successful:........................0.0
+Average probes for successful:......................3686.0
+Average time for unsuccessful:......................0.0
+Average probes for unsuccessful:....................3691.0
+
+--------------------------
